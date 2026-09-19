@@ -1,5 +1,4 @@
-export { DataTable } from "./data-table"
-export { DataTableColumnHeader } from "./data-table-column-header"
-export { DataTablePagination } from "./data-table-pagination"
-export { DataTableViewOptions } from "./data-table-view-options"
-
+export * from "./data-table"
+export * from "./data-table-column-header"
+export * from "./data-table-pagination"
+export * from "./data-table-view-options"
